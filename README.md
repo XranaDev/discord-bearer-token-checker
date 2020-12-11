@@ -8,7 +8,7 @@ https://tools.sy.com.hr/discord-bearer-token-checker/
 
 Input a Discord Bearer Token inside of the input box in this format:
 ```
-hhhhhh
+PbAoXmbwZAptvRqLHOPeAGi5oXBywo
 ```
 Click the Submit button.
 
